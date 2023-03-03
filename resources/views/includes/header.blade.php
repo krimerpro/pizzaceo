@@ -39,7 +39,7 @@
             <div id="menu" class="navbar-collapse collapse" >
                 <ul class="nav navbar-nav">
                   <li class="level">
-                      <a href="https://t.met/PizzaCEOPortal" class="page-scroll">Telegram</a>
+                      <a href="https://t.me/PizzaCEOPortal" target="_blank" class="page-scroll">Telegram</a>
                   </li>
                 </ul>
             </div>
