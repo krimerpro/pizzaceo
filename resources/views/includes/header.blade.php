@@ -1,97 +1,59 @@
-<!-- Preloader -->
-<div class="preloader">
-    <div class="preloader-wrapper">
-        <div class="preloader-content">
-            <div class="blob-1"></div>
-          <div class="blob-2"></div>
-        </div>
-    </div>
+<!-- Start preloader -->
+<div id="preloader">
+  <label>Loading</label>
 </div>
-<!-- Preloader -->
-<!-- Navbar -->
-<div class="fixed-top bg-white">
-    <div class="navbar-area sticky-black">
-        <div class="container">
-            <div class="mobile-nav">
-                <a href="#" class="mobile-brand">
-                    <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                </a>
-                <div class="navbar-option">
-                    <div class="navbar-option-item">
-                        <button type="button">
-                            <i class="flaticon-user" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item side-topbar-option">
-                        <button type="button">
-                            <i class="flaticon-grid" ></i>
-                        </button>
-                    </div>
-                    <div class="navbar-option-item">
-                        <button type="button" class="search-option">
-                            <i class="icofont-search-1"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
+<!-- End preloader -->
+
+<header id="header">
+  <div class="container">
+    <div class="row m-0 align-items-center">
+      <div class="col-xl-3 col-lg-2 col-md-4 col-3 p-0">
+              <div class="navbar-header">
+                  <a class="navbar-brand page-scroll" href="#" style="color:white;font-weight:bold">
+                    PIZZA CEO
+                  </a>
+              </div>
         </div>
-        <div class="main-nav">
-            <div class="container">
-                <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo">
-                    </a>
-                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">HOME</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#about" class="nav-link">ABOUT US</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#services" class="nav-link">SERVICES</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#projects" class="nav-link">PROJECTS</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a href="#news" class="nav-link">NEWS</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="navbar-option">
-                        <div class="navbar-option-item">
-                            <a href="#" class="btn main-btn">More Features</a>
-                        </div>
-                    </div>
-                </nav>
+        <div class="col-xl-9 col-lg-10 col-md-8 col-9 p-0 text-end">
+            <div id="menu" class="navbar-collapse collapse" >
+                <ul class="nav navbar-nav">
+                  <li class="level">
+                      <a href="#" class="page-scroll">Home</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="menu" class="navbar-collapse collapse" >
+                <ul class="nav navbar-nav">
+                  <li class="level">
+                      <a href="#roadmap" class="page-scroll">Roadmap</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="menu" class="navbar-collapse collapse" >
+                <ul class="nav navbar-nav">
+                  <li class="level">
+                      <a href="#about" class="page-scroll">About</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="menu" class="navbar-collapse collapse" >
+                <ul class="nav navbar-nav">
+                  <li class="level">
+                      <a href="https://t.met/PizzaCEOPortal" class="page-scroll">Telegram</a>
+                  </li>
+                </ul>
+            </div>
+            <div class=" header-right-link">
+                <ul>
+                    <li class="order-online">
+                      <a href="#" class="btn btn-green">PIZZA WALLET</a>
+                    </li>
+                    <li class="side-toggle">
+                        <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button"><span></span></button>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
-</div>
-<!-- Navbar -->
-<!-- Header -->
-<header class="header header-bg header-bottom-space header-bg-image">
-    <div class="container-fluid p-lg-0 custom-container-fluid">
-        <div class="row m-lg-0 align-items-center">
-            <div class="col-lg-6 p-lg-0">
-                <div class="max-585 ms-lg-auto">
-                    <div class="header-content header-content-white m-0">
-                        <h1>Best Machine Learning Product Creator</h1>
-                        <p>Transforming businesses with Artificial Intelligence</p>
-                        <div class="button-group button-group-animated">
-                            <a href="https://poocoin.app/tokens/0x1981b31e224bCeC2d068B34eC13Fab9b344D4CA5" class="btn main-btn">Poocoin Chart</a>
-                            <a href="https://t.me/ErudexAiPortal" class="btn main-btn main-btn-white">Telegram Group</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  </div>
 </header>
-<!-- Header -->
