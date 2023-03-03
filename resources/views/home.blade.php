@@ -58,8 +58,8 @@
       </div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-3.svg" alt="delicious" class="order-img">
-        <h2 class="order-title text-uppercase">2 BNB</h2>
-        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY</p>
+        <h2 class="order-title text-uppercase">1 BNB</h2>
+        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY TO BURN</p>
       </div>
       <div class="order-bottom"><img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-bottom.png" alt="layer"></div>
     </div>
