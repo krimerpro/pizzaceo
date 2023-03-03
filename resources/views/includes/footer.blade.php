@@ -15,3 +15,7 @@
 <script src="https://themes.templatescoder.com/pizzon/html/demo/1-1/js/animation.js"></script>
 <script src="https://themes.templatescoder.com/pizzon/html/demo/1-1/js/bootstrap.min.js"></script>
 <script src="https://themes.templatescoder.com/pizzon/html/demo/1-1/js/script.js"></script>
+
+<script type="text/javascript">
+    document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
