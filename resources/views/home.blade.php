@@ -11,6 +11,7 @@
             <div class="banner-center">
               <h2 class="banner-headding">PIZZA <span>CEO</span></h2>
               <p class="banner-sub-hed">PIZZA COULD BE A CEO</p>
+              <p class="banner-sub-hed">LOW TAX | BURN LP</p>
             </div>
           </div>
           <div class="banner-images">
@@ -29,6 +30,7 @@
             <div class="banner-center">
               <h2 class="banner-headding">PIZZA <span>CEO</span></h2>
               <p class="banner-sub-hed">PIZZA COULD BE A CEO</p>
+              <p class="banner-sub-hed">LOW TAX | BURN LP</p>
             </div>
           </div>
           <div class="banner-images">
@@ -48,7 +50,7 @@
       <div class="order-top"><img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-top.png" alt="layer"></div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-1.svg" alt="order" class="order-img">
-        <h2 class="order-title text-uppercase">5%</h2>
+        <h2 class="order-title text-uppercase">2%</h2>
         <p class="order-des" style="margin-bottom:30px">BUY & SELL TAX</p>
       </div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
