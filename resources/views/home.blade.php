@@ -55,8 +55,8 @@
       </div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-2.svg" alt="delivery" class="order-img">
-        <h2 class="order-title text-uppercase">NO MAX</h2>
-        <p class="order-des" style="margin-bottom:30px">NO MAX WALLET! NO MAX TX!</p>
+        <h2 class="order-title text-uppercase">4% MAX</h2>
+        <p class="order-des" style="margin-bottom:30px">4% MAX WALLET! 4% MAX TX!</p>
       </div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-3.svg" alt="delicious" class="order-img">
