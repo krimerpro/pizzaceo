@@ -30,7 +30,7 @@
             <div class="banner-center">
               <h2 class="banner-headding">PIZZA <span>CEO</span></h2>
               <p class="banner-sub-hed">PIZZA COULD BE A CEO</p>
-              <p class="banner-sub-hed">LOW TAX | BURN LP</p>
+              <p class="banner-sub-hed">LOW TAX PLAY ON BSC</p>
             </div>
           </div>
           <div class="banner-images">
