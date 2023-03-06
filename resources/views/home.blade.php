@@ -11,7 +11,7 @@
             <div class="banner-center">
               <h2 class="banner-headding">PIZZA <span>CEO</span></h2>
               <p class="banner-sub-hed">PIZZA COULD BE A CEO</p>
-              <p class="banner-sub-hed">LOW TAX | BURN LP</p>
+              <p class="banner-sub-hed">LOW TAX PLAY ON BSC</p>
             </div>
           </div>
           <div class="banner-images">
@@ -61,7 +61,7 @@
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-3.svg" alt="delicious" class="order-img">
         <h2 class="order-title text-uppercase">1 BNB</h2>
-        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY TO BURN</p>
+        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY</p>
       </div>
       <div class="order-bottom"><img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-bottom.png" alt="layer"></div>
     </div>
