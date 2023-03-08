@@ -56,12 +56,12 @@
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-2.svg" alt="delivery" class="order-img">
         <h2 class="order-title text-uppercase">4% MAX</h2>
-        <p class="order-des" style="margin-bottom:30px">4% MAX WALLET! 4% MAX TX!</p>
+        <p class="order-des" style="margin-bottom:30px">5% MAX WALLET! 5% MAX TX!</p>
       </div>
       <div class="col-xl-4 col-lg-4 col-md-4 servose-box text-center padding-lf wow fadeInUp">
         <img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-3.svg" alt="delicious" class="order-img">
         <h2 class="order-title text-uppercase">1 BNB</h2>
-        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY</p>
+        <p class="order-des" style="margin-bottom:30px">INITIAL LIQUIDITY TO BURN</p>
       </div>
       <div class="order-bottom"><img src="https://themes.templatescoder.com/pizzon/html/demo/1-1/images/order-bottom.png" alt="layer"></div>
     </div>
